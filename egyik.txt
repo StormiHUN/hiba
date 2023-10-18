@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 egyik cig
+=======
+zsid
+>>>>>>> 4590ba47daf43ca6a5debceef40a926dc230243a
